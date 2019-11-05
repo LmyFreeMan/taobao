@@ -1,0 +1,4 @@
+<view class='img'>
+<image src="https://456.xinyun1688.com/server_api/api/Index/code?id={{id}}" style='width:80%'></image>
+</view>
+<button bindtap='download' style='width:80%;margin-top:20px;' type='primary'>下载</button>

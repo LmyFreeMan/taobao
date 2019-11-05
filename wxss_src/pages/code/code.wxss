@@ -1,0 +1,6 @@
+/* pages/code/code.wxss */
+.img
+{
+  margin-left:50px;
+ 
+}
